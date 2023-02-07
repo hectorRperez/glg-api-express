@@ -1,0 +1,10 @@
+Información general sobre API de GLG
+
+==================== HISTORYS =================
+
+GET  /api/historys
+POST /api/historys
+PUT  /api/historys/id
+DELETE /api/historys/id
+
+===============================================
