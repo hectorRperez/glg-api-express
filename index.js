@@ -16,8 +16,6 @@ app.use(cors());
 // /api envialo a fichero apiRouter
 app.use("/api", apiRouter)
 
-console.log("hola");
-
 app.listen(3000, () => {
   console.log("server run on port 3000");
 })
